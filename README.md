@@ -28,6 +28,7 @@ Then click "Load Unpacked Extension" and browse to the folder called RokuCast in
 
 
 ## Usage
+## [rokify](https://aapks.com/apk/remote-cast-for-roku/)
 
 Once the Chrome extension has been installed, you should see the extension appear in the corner.
 
